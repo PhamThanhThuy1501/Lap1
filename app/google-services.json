@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "414094479518",
-    "project_id": "md18402-and103",
-    "storage_bucket": "md18402-and103.appspot.com"
+    "project_number": "415986513536",
+    "project_id": "and103-md18402-3656e",
+    "storage_bucket": "and103-md18402-3656e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:414094479518:android:6f7d4dfa28b3aa5d46eb8f",
+        "mobilesdk_app_id": "1:415986513536:android:96e45aca0e0b6d861b5865",
         "android_client_info": {
           "package_name": "com.vdsl.myapplication"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC0bN6-d1X0WPbmiKY4RccpN-LyABWwGHo"
+          "current_key": "AIzaSyB_NFcqDKnJFukuahDzyKqSNnLSITN-rLA"
         }
       ],
       "services": {
